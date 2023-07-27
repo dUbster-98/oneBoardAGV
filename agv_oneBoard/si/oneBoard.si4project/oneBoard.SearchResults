@@ -1,4 +1,0 @@
----- LOW_BAT_ERR Matches (3 in 2 files) ----
-ckr_pin_down_move in agv_oneBoard.ino (C:\Users\gonggu\Desktop\oneBoard_AGV\agv_oneBoard) : 	if(_READ_BATTERY < LOW_BAT_ERR)
-ckr_pin_up_move in agv_oneBoard.ino (C:\Users\gonggu\Desktop\oneBoard_AGV\agv_oneBoard) : 	if(_READ_BATTERY < LOW_BAT_ERR)
-main.h (C:\Users\gonggu\Desktop\oneBoard_AGV\agv_oneBoard) line 156 : #define LOW_BAT_ERR			750
